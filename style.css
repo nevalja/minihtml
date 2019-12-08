@@ -1,0 +1,20 @@
+body {
+    width: 850px;
+    margin: 0 auto;
+    background: lightsteelblue;
+
+}
+.narator {
+    margin: 10px 50px 10px 50px;
+}
+
+ul {
+    margin: 20px 10px 20px 0;
+}
+.pupin {
+    border: 3px solid gray;
+   
+}
+h1, h3 {
+    margin: 10px 0 0 0;
+}
